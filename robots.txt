@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://facuk27.github.io/Digital-studio-web-/sitemap.xml
